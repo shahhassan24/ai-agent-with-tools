@@ -1,0 +1,143 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "tell me a dad joke",
+      "id": "8a7b379d-0acd-442a-81bf-e552fd5e3097",
+      "createdAt": "2025-02-09T13:36:44.022Z"
+    },
+    {
+      "role": "assistant",
+      "content": null,
+      "tool_calls": [
+        {
+          "id": "call_Ef9PQfLygmX840EGFeaQ9rLu",
+          "type": "function",
+          "function": {
+            "name": "dad_jokes",
+            "arguments": "{}"
+          }
+        }
+      ],
+      "refusal": null,
+      "id": "c4e24bdc-afa1-4eab-a4fe-d0c05a78f433",
+      "createdAt": "2025-02-09T13:36:46.018Z"
+    },
+    {
+      "role": "tool",
+      "content": "I got fired from a florist, apparently I took too many leaves.",
+      "tool_call_id": "call_Ef9PQfLygmX840EGFeaQ9rLu",
+      "id": "18f1c212-ab87-49cc-b253-f4ebf6161449",
+      "createdAt": "2025-02-09T13:36:47.660Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Here's a dad joke for you: \"I got fired from a florist, apparently I took too many leaves.\" 😄",
+      "refusal": null,
+      "id": "e088ff29-c1d8-43c7-bbb3-4f24c35de63f",
+      "createdAt": "2025-02-09T13:36:48.383Z"
+    },
+    {
+      "role": "user",
+      "content": "tell me a dad joke",
+      "id": "df3d49da-ef83-4409-99a6-5d6ec6c9a060",
+      "createdAt": "2025-02-09T13:50:56.291Z"
+    },
+    {
+      "role": "assistant",
+      "content": null,
+      "tool_calls": [
+        {
+          "id": "call_frvVTs4TsRC04AugoBmU5aLm",
+          "type": "function",
+          "function": {
+            "name": "dad_jokes",
+            "arguments": "{}"
+          }
+        }
+      ],
+      "refusal": null,
+      "id": "fc83e4ca-5ccd-4403-9c57-bec62b3dc300",
+      "createdAt": "2025-02-09T13:51:13.249Z"
+    },
+    {
+      "role": "tool",
+      "content": "Where do hamburgers go to dance? The meat-ball.",
+      "tool_call_id": "call_frvVTs4TsRC04AugoBmU5aLm",
+      "id": "e774d93b-ae18-4c04-ba23-504491062e45",
+      "createdAt": "2025-02-09T13:51:14.542Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Here's another one for you: \"Where do hamburgers go to dance? The meat-ball.\" 😄",
+      "refusal": null,
+      "id": "07650313-7299-4e75-b353-39143eed6cec",
+      "createdAt": "2025-02-09T13:51:15.188Z"
+    },
+    {
+      "role": "user",
+      "content": "my name is Shah Hassan, tell me a cool dad joke",
+      "id": "eeefb93e-31e8-4260-b9dd-f1d86d719ae5",
+      "createdAt": "2025-02-09T13:51:51.396Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Hey there, Shah Hassan! Let me hit you with a cool dad joke: \n\nWhy did the scarecrow win an award? Because he was outstanding in his field! 😎🌾",
+      "refusal": null,
+      "id": "6cc7be0e-0dcb-4718-8a05-629b28d81f5d",
+      "createdAt": "2025-02-09T13:51:52.652Z"
+    },
+    {
+      "role": "user",
+      "content": "my name is Shah Hassan, tell me a cool mom joke",
+      "id": "90480c74-def3-41ca-be67-5dd9abd96f3f",
+      "createdAt": "2025-02-09T13:52:09.913Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Hey Shah Hassan, I see you're switching it up! Here's a cool \"mom\" joke for you:\n\nWhy did the mom bring a ladder to the bar? She heard the drinks were on the house! 😄🍹",
+      "refusal": null,
+      "id": "dc1a57e7-3642-4ef1-b7fd-abfb3a0d337a",
+      "createdAt": "2025-02-09T13:52:11.102Z"
+    },
+    {
+      "role": "user",
+      "content": "tell me the capital of australia",
+      "id": "cc5602b8-8f69-4977-8392-c04c6249cbbb",
+      "createdAt": "2025-02-09T13:52:42.164Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The capital of Australia is Canberra, my friend. It's where all the big shots in Aussie politics hang out.",
+      "refusal": null,
+      "id": "6daeb437-43d8-4fee-97d4-0f372c06d6c0",
+      "createdAt": "2025-02-09T13:52:44.160Z"
+    },
+    {
+      "role": "user",
+      "content": "i want to cool gaming name. my current name is lordshady, but i need a better, cool gangsta type oe",
+      "id": "697aee65-7c33-4747-951f-5cf43721eb79",
+      "createdAt": "2025-02-09T13:53:36.956Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I got you covered, boss! How about \"ShadowHavoc\"? It's got that mysterious vibe with a touch of chaos, perfect for a gaming gangsta like yourself.",
+      "refusal": null,
+      "id": "59b40b89-bc66-4265-8c5a-5dab4d998ecc",
+      "createdAt": "2025-02-09T13:53:38.434Z"
+    },
+    {
+      "role": "user",
+      "content": "tell me atleast 5",
+      "id": "572c2434-893a-447d-b1f6-d4f99c307906",
+      "createdAt": "2025-02-09T13:54:00.943Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Sure thing, here are five cool gaming names with that gangsta flair for you:\n\n1. ViperVandal\n2. BlazeBullet\n3. RogueReaper\n4. SteelSpectre\n5. CrimsonCobra\n\nTake your pick, and let the games begin, capisce?",
+      "refusal": null,
+      "id": "e809dc7f-91aa-49bb-aa39-3bf3b8eb2219",
+      "createdAt": "2025-02-09T13:54:07.911Z"
+    }
+  ]
+}
